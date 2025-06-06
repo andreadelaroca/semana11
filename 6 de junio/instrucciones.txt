@@ -1,0 +1,4 @@
+Almacenar varios estudiantes con los siguientes datos: nombre,
+apellido, carrera y el promedio.
+
+Aplicar una beca del 30% si su promedio es de 85 o más.
